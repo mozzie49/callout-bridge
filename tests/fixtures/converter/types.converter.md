@@ -1,0 +1,16 @@
+<div data-callout-type="abstract" class="callout"><h4>ABSTRACT</h4><p>Body for abstract.</p></div>
+
+<div data-callout-type="hint" class="callout"><h4>HINT</h4><p>Body for hint.</p></div>
+
+<div data-callout-type="info" class="callout"><h4>INFO</h4><p>Body for info.</p></div>
+
+<div data-callout-type="success" class="callout"><h4>SUCCESS</h4><p>Body for success.</p></div>
+
+<div data-callout-type="warn" class="callout"><h4>WARN</h4><p>Body for warn.</p></div>
+
+<div data-callout-type="error" class="callout"><h4>ERROR</h4><p>Body for error.</p></div>
+
+<div data-callout-type="example" class="callout"><h4>EXAMPLE</h4><p>Body for example.</p></div>
+
+<div data-callout-type="quote" class="callout"><h4>QUOTE</h4><p>Body for quote.</p></div>
+

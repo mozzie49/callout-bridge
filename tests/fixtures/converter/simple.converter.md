@@ -1,0 +1,6 @@
+Before callout.
+
+<div data-callout-type="info" class="callout"><h4>INFO</h4><p>A <strong>bold</strong> point with <a href="https://example.com">a link</a>.</p></div>
+
+After callout.
+

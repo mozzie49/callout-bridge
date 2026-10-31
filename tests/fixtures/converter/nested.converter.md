@@ -1,0 +1,2 @@
+<div data-callout-type="warn" class="collapsed callout"><h4>Custom title</h4><p>Outer body.</p><div data-callout-type="hint" class="callout"><h4>HINT</h4><p>Inner body.</p></div><ul><li><p>First</p></li><li><p>Second</p></li></ul></div>
+
