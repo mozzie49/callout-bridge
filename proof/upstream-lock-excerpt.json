@@ -1,0 +1,28 @@
+{
+  "node_modules/@streetwriters/showdown": {
+    "version": "3.0.9-alpha",
+    "resolved": "https://registry.npmjs.org/@streetwriters/showdown/-/showdown-3.0.9-alpha.tgz",
+    "integrity": "sha512-ZpRFpDBhhPsshl76mttp3NcpLkJ3Bew6nFH/y4IvTrDw41uaquExo9EpmDemrcjSqymzFpmyWnOeDtJvG6noYQ==",
+    "license": "MIT",
+    "bin": {
+      "showdown": "bin/showdown.js"
+    },
+    "funding": {
+      "type": "individual",
+      "url": "https://www.paypal.me/tiviesantos"
+    }
+  },
+  "node_modules/linkedom": {
+    "version": "0.14.26",
+    "resolved": "https://registry.npmjs.org/linkedom/-/linkedom-0.14.26.tgz",
+    "integrity": "sha512-mK6TrydfFA7phrnp+1j57ycBwFI5bGSW6YXlw9acHoqF+mP/y+FooEYYyniOt5Ot57FSKB3iwmnuQ1UUyNLm5A==",
+    "license": "ISC",
+    "dependencies": {
+      "css-select": "^5.1.0",
+      "cssom": "^0.5.0",
+      "html-escaper": "^3.0.3",
+      "htmlparser2": "^8.0.1",
+      "uhyphen": "^0.2.0"
+    }
+  }
+}

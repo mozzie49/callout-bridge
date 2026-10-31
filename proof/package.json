@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@streetwriters/showdown": "3.0.9-alpha",
+    "linkedom": "0.14.26"
+  }
+}
